@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cd730a4d7294eb3bdfb6812c99e0c10, type: 3}
+  m_Name: Chess Position Config
+  m_EditorClassIdentifier: 
+  chessFigureConfig: {fileID: 11400000, guid: 13eead7391318114e819a885bb26f710, type: 2}
+  boardConfig: {fileID: 11400000, guid: 6ed2ab4c4854b6444ad81df6dff8effd, type: 2}
+  chessPositions:
+  - {fileID: 11400000, guid: 8a3ffa3d8977c4e4c8ea77f9067bc57d, type: 2}
+  - {fileID: 11400000, guid: 27ddc03498028b546b9fe97c33883125, type: 2}
+  - {fileID: 11400000, guid: 5100b1b85a8772c4ea1618b7b69cbc38, type: 2}
+  - {fileID: 11400000, guid: 5a2f1997a74e2d340aa1a983a6355f35, type: 2}
